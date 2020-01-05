@@ -4,6 +4,10 @@
 
 ![](https://github.com/0xJeremy/QuByte/blob/master/images/render.png)
 
+## Initial Build
+
+![](https://github.com/0xJeremy/QuByte/blob/master/images/build.jpeg)
+
 ## Bill of Materials
 
 - 2x Metal Gear Micromotor (https://www.pololu.com/category/60/micro-metal-gearmotors)
